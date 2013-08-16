@@ -1,0 +1,5 @@
+name: delty
+version: 1.0.0
+author: GDur <gdur.mugen@googlemail.com>
+description: Delty, the neural network which is using the Deltarule ( 1 layer of neurons)
+homepage: https://github.com/GDur/delty
